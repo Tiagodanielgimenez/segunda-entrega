@@ -1,0 +1,1 @@
+"# segunda-entrega"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:Tiagodanielgimenez/segunda-entrega.gitgit push -u origin main
